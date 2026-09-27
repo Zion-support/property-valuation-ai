@@ -9,7 +9,7 @@ Live: https://ziontechgroup.com/property-valuation-ai/
 - Confidence intervals and valuation explainability reports
 - Portfolio-level batch valuation
 
-## Part of the Zion App Network — Batch 54: AI Real Estate & PropTech
+## Part of the Zion App Network — Batch 61: AI Real Estate & PropTech
 - [Property Valuation AI](https://github.com/Zion-support/property-valuation-ai) — this repo
 - [Tenant Screening Copilot](https://github.com/Zion-support/tenant-screening-copilot)
 - [Lease Abstraction AI](https://github.com/Zion-support/lease-abstraction-ai)
